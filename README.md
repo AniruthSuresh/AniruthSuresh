@@ -1,8 +1,7 @@
 # 👋 Hello, World!
 
-![Animated Image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2qB-hYk9alTTELrkbfRINQ&ust=1702734194438000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCL17fJkYMDFQAAAAAdAAAAABAI))
 
-I'm Aniruth Suresh , a passionate Electrical and Computer Engineering (ECE) student at IIIT Hyderabad. 👨‍💻
+I'm **Aniruth Suresh** , a passionate Electrical and Computer Engineering (ECE) student at IIIT Hyderabad. 👨‍💻
 
 
 ## 🚀 About Me
