@@ -1,5 +1,7 @@
 # 👋 Hello, World!
 
+![Animated Image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2qB-hYk9alTTELrkbfRINQ&ust=1702734194438000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCL17fJkYMDFQAAAAAdAAAAABAI))
+
 I'm Aniruth Suresh , a passionate Electrical and Computer Engineering (ECE) student at IIIT Hyderabad. 👨‍💻
 
 
@@ -17,7 +19,7 @@ I'm Aniruth Suresh , a passionate Electrical and Computer Engineering (ECE) stud
 ## 💻 Tech Skills
 
 - 🖥️ **Verilog:** Explored the intricacies of hardware description language (HDL) with a focus on Verilog, enabling efficient FPGA programming and digital circuit design.
-- 
+
 - 📊 **MATLAB:** Proficient in utilizing MATLAB software for numerical computing, data analysis, and algorithm development, enhancing my ability to solve complex engineering problems through simulation and modeling.
 
 - 🛠️ **Magic Layout:** Acquired skills in Magic Layout, enabling the design and verification of integrated circuits through layout and physical design techniques.
