@@ -32,7 +32,7 @@ I'm Aniruth Suresh , a passionate Electrical and Computer Engineering (ECE) stud
 
 ## 🌐 Connect with Me
 
-- 📧 Feel free to shoot me an email at [aniruthzlatan@gmail.com](mailto:aniruthzlatan@gmail.com).
+- 📧 Feel free to shoot me an email at [Email](mailto:aniruthzlatan@gmail.com).
 - 🌐 Check out my personal projects and contributions on [GitHub](https://github.com/).
 
 ## 🌟 What I'm Up To
