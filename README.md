@@ -12,8 +12,11 @@ I'm **Aniruth Suresh** , a passionate Electrical and Computer Engineering (ECE) 
 
 ## 🎓 Education
 
-- 🏫 Pursuing my Bachelor's in Electrical and Computer Engineering at IIIT Hyderabad ( Currently pursuing 2nd year )
+🏫 Pursuing my Bachelor's in Electrical and Computer Engineering at IIIT Hyderabad (Currently pursuing 2nd year)
 
+🌟 Successfully qualified JEE Mains and Advanced, showcasing a strong foundation in engineering fundamentals.
+
+🏆 Awarded the prestigious KVPY (Kishore Vaigyanik Protsahan Yojana) scholarship, reflecting excellence in scientific and research aptitude.
 
 ## 💻 Tech Skills
 
