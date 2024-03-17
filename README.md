@@ -87,7 +87,7 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
   </a> 
 
 <a href="https://ngspice.sourceforge.io//" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg" alt="ngspice" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg" alt="ngspice" width="60" height="40"/> 
 </a>
 
 
