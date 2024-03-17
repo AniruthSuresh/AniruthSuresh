@@ -14,6 +14,7 @@
 **Exploring Neural Networks**
 
 🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my works [here](https://github.com/AniruthSuresh?tab=repositories)
+
  💬 **Natural Language Processing (NLP):** I'm also keen to delve into the intriguing field of Natural Language Processing (NLP). While not yet explored extensively, I'm eager to venture into projects where NLP techniques are employed to glean insights from textual data. Stay tuned as I embark on this exciting journey into the world of NLP in the future.
 
 
@@ -22,6 +23,7 @@
  🌱 Worked on Supervised , Unsupervised Learning , Deep learning , CNN , Decision Tree , XGBoost and made several models on the same 
  
 **Electronics and Commmunications**
+
 🔌 **Electronics and Communications (ECE) Skills:**
 With a solid foundation in Electronics and Communications (ECE), I possess a deep and comprehensive understanding of various concepts, systems, and models. My skills in ECE extend across multiple areas, including:
 
