@@ -11,8 +11,8 @@
 <div align="center">
 
 **Exploring Neural Networks**
-I'm currently working on **Convolutional Neural Networks** and delving deep into the realm of **Deep Learning** and have made a lot of models on the same . Feel free to check it out [here]([https://github.com/AniruthSuresh?tab=repositories])
 
+🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. I've been actively developing various models in this domain. Feel free to check out my work [here](https://github.com/AniruthSuresh?tab=repositories).
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
