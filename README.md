@@ -98,7 +98,7 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 <br/>
 
  </div>
- <h2 align="center"> 🌐 Connect with me</h2>
+ <h2 align="left"> 🌐 Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruth-suresh/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruthzlatan@gmail.com)
