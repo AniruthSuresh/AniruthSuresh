@@ -87,6 +87,10 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
   <img src="https://user-images.githubusercontent.com/94699627/229367673-3141acd7-2d79-4e54-b59a-2fecd257fba7.png" alt="ngspice" width="40" height="40"/> 
 </a>
 
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="LTspice" width="40" height="40"/> 
+</a>
+
 
 
 <div align="center">
