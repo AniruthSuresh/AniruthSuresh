@@ -12,34 +12,26 @@
 
 
 **Exploring Neural Networks**
-🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my works [here](https://github.com/AniruthSuresh?tab=repositories)
 
-- 💬 **Natural Language Processing (NLP):** I'm also keen to delve into the intriguing field of Natural Language Processing (NLP). While not yet explored extensively, I'm eager to venture into projects where NLP techniques are employed to glean insights from textual data. Stay tuned as I embark on this exciting journey into the world of NLP in the future.
+🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my works [here](https://github.com/AniruthSuresh?tab=repositories)
+ 💬 **Natural Language Processing (NLP):** I'm also keen to delve into the intriguing field of Natural Language Processing (NLP). While not yet explored extensively, I'm eager to venture into projects where NLP techniques are employed to glean insights from textual data. Stay tuned as I embark on this exciting journey into the world of NLP in the future.
 
 
 
 **Machine Learning and Data Analysis**
  🌱 Worked on Supervised , Unsupervised Learning , Deep learning , CNN , Decision Tree , XGBoost and made several models on the same 
  
-- 📈 **Predictive Models:** Explore a variety of predictive models developed for tasks such as classification, regression, and clustering. 
-
-- 🖼️ **Computer Vision:** Delve into projects focusing on computer vision tasks, including image classification, object detection, and more. 
-
-- 📊 **Data Visualization:** Experience visually captivating analyses and interactive visualizations created using libraries like Matplotlib, Seaborn and Tensorboard. 
-
-
 **Electronics and Commmunications**
 🔌 **Electronics and Communications (ECE) Skills:**
 With a solid foundation in Electronics and Communications (ECE), I possess a deep and comprehensive understanding of various concepts, systems, and models. My skills in ECE extend across multiple areas, including:
 
-- **Analog and Digital Electronics:** Proficient in designing, analyzing, and troubleshooting analog and digital circuits. I have hands-on experience with operational amplifiers, digital logic gates, and integrated circuits.
+**Analog and Digital Electronics:** Proficient in designing, analyzing, and troubleshooting analog and digital circuits. I have hands-on experience with operational amplifiers, digital logic gates, and integrated circuits.
 
-- **Signal Processing:** Skilled in signal processing techniques for both analog and digital signals. I have applied filters, modulation/demodulation techniques, and Fourier analysis to manipulate and extract information from signals effectively.
+**Signal Processing:** Skilled in signal processing techniques for both analog and digital signals. I have applied filters, modulation/demodulation techniques, and Fourier analysis to manipulate and extract information from signals effectively.
 
-- **Communication Systems:** Knowledgeable about communication systems, including modulation schemes, channel coding, and multiplexing techniques.
+ **Communication Systems:** Knowledgeable about communication systems, including modulation schemes, channel coding, and multiplexing techniques.
 
-
-- **Circuit Design and Simulation:** Proficient in using electronic design automation (EDA) tools such as **SPICE** for circuit simulation and **Magic Layout** design software for schematic capture and layout.
+**Circuit Design and Simulation:** Proficient in using electronic design automation (EDA) tools such as **SPICE** for circuit simulation and **Magic Layout** design software for schematic capture and layout.
 
 Below are some of my best work in this domain. Feel free to explore them further
 
