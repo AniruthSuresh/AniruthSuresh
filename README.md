@@ -45,7 +45,7 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 
 
  
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="centre">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Manim](https://img.shields.io/badge/Manim-%2312100E.svg?style=for-the-badge&logo=manim&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-%230097D7.svg?style=for-the-badge&logo=simulink&logoColor=white)
@@ -98,13 +98,12 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 <br/>
 
  </div>
- <h2 align="left"> 🌐 Connect with me</h2>
+ <h2 align="centre"> 🌐 Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruth-suresh/) 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brahad.kokad@research.iiit.ac.in)
-[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discordapp.com/users/607419297358282754)
-[![Gitter](https://img.shields.io/static/v1?style=for-the-badge&message=Gitter&color=ED1965&logo=Gitter&logoColor=FFFFFF&label=)](https://matrix.to/#/@brahad316:gitter.im)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brahad316)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruthzlatan@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aniruth.suresh@students.iiit.ac.in)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniruthSuresh)
 
 </div>
 
