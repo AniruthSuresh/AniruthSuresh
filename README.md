@@ -19,11 +19,11 @@
 
 
 
-**Machine Learning and Data Analysis**
+***Machine Learning and Data Analysis***
 
  🌱 Worked on Supervised , Unsupervised Learning , Deep learning , CNN , Decision Tree , XGBoost and made several models on the same 
  
-**Electronics and Commmunications**
+***Electronics and Commmunications***
 
 🔌 **Electronics and Communications (ECE) Skills:**
 With a solid foundation in Electronics and Communications (ECE), I possess a deep and comprehensive understanding of various concepts, systems, and models. My skills in ECE extend across multiple areas, including:
@@ -41,7 +41,7 @@ Below are some of my best work in this domain. Feel free to explore them further
 
 <p align="left">
     <a href="[https://github.com/AniruthSuresh/Y-86-64-bit-Processor]"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AniruthSuresh&repo=Y-86-64-bit-Processor&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
-    <a href="https://github.com/brahad316/Y86-64bit-processor"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brahad316&repo=Y86-64bit-processor&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
+    <a href="https://github.com/AniruthSuresh/Complete-ALU-Design-"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AniruthSuresh&repo=YComplete-ALU-Design-&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
     <a href="https://github.com/brahad316/NEO-hardware-realisation"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brahad316&repo=NEO-hardware-realisation&theme=dracula&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="FAN"></a>
     
 
