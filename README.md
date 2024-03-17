@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🌐  About me
+## - 👨‍💻 About me
 
 
 ***Exploring Neural Networks***
