@@ -8,6 +8,16 @@
 
 <br/>
 
+ </div>
+ <h2 align="left"> 🌐 Connect with me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruth-suresh/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruthzlatan@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aniruth.suresh@students.iiit.ac.in)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniruthSuresh)
+
+</div>
+
 ## 👨‍💻 About me
 
 
@@ -97,15 +107,7 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 
 <br/>
 
- </div>
- <h2 align="left"> 🌐 Connect with me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruth-suresh/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruthzlatan@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aniruth.suresh@students.iiit.ac.in)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniruthSuresh)
-
-</div>
 
  <hr/>
 
