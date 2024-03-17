@@ -1,57 +1,76 @@
-# 👋 Hello, World!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;Pursin" />
+</h1>
 
-I'm **Aniruth Suresh** , a passionate Electrical and Computer Engineering (ECE) student at IIIT Hyderabad. 👨‍💻
+<h3 align="center">I'm an undergrad persuing my BTech in Electronics and Communication at IIIT Hyd, India</h3>
 
+<br/>
 
-## 🚀 About Me
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- 🔭 I'm currently exploring the fascinating realms of electronics, communication, and computer systems.
-- 💡 My interests span from embedded systems to machine learning, with a focus on bridging the gap between hardware and software.
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-## 🎓 Education
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-🏫 Pursuing my Bachelor's in Electrical and Computer Engineering at IIIT Hyderabad (Currently pursuing 2nd year)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-🌟 Successfully qualified JEE Mains and Advanced, showcasing a strong foundation in engineering fundamentals.
+<br/>
+<hr/>
 
-🏆 Awarded the prestigious KVPY (Kishore Vaigyanik Protsahan Yojana) scholarship, reflecting excellence in scientific and research aptitude.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 💻 Tech Skills
+<hr/>
 
-- 🖥️ **Verilog:** Explored the intricacies of hardware description language (HDL) with a focus on Verilog, enabling efficient FPGA programming and digital circuit design.
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-- 📊 **MATLAB:** Proficient in utilizing MATLAB software for numerical computing, data analysis, and algorithm development, enhancing my ability to solve complex engineering problems through simulation and modeling.
+<br/><br/>
 
-- 🛠️ **Magic Layout:** Acquired skills in Magic Layout, enabling the design and verification of integrated circuits through layout and physical design techniques.
+<hr/>
 
-- ⚙️ **ngspice:** Experienced in using ngspice for circuit simulation and analysis, allowing for the exploration of analog and mixed-signal electronic circuits.
+<br/>
 
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-## 💻 Tech Stack
-
-- 🚀 Proficient in C, Python, HTML and CSS .
-- 🛠️ Experienced with FPGA programming and embedded systems development.
-
-## 🌐 Connect with Me
-
-- 📧 Feel free to shoot me an email at [Email](mailto:aniruthzlatan@gmail.com).
-- 🌐 Check out my personal projects and contributions on [GitHub](https://github.com/).
-
-## 🌟 What I'm Up To
-
-- 📚 Currently exploring more about the software research in electronics.
-- 🚧 Always open to collaboration on exciting projects or hackathons.
-
-## 🎯 Goals
-
-- 🌈 Striving to contribute to open-source projects that make a positive impact.
-- 🚀 Aiming to blend cutting-edge technology with real-world applications.
-
-## 🎶 Fun Facts
-
-- 🎸 In my free time, I listen to music and I do follow lot of sports .
-- 📚 Currently reading Outline by Rachel Cusk.
-
-Let's connect and build something amazing together! 🚀
+<br/>
