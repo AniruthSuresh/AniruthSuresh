@@ -11,7 +11,7 @@
 ## 🌐  About me
 
 
-*Exploring Neural Networks*
+***Exploring Neural Networks***
 
 🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my works [here](https://github.com/AniruthSuresh?tab=repositories)
 
@@ -20,6 +20,7 @@
 
 
 **Machine Learning and Data Analysis**
+
  🌱 Worked on Supervised , Unsupervised Learning , Deep learning , CNN , Decision Tree , XGBoost and made several models on the same 
  
 **Electronics and Commmunications**
