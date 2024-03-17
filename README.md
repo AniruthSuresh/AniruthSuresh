@@ -90,8 +90,8 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg" alt="ngspice" width="60" height="40"/> 
 </a>
 
-<a href="(https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)/" target="_blank" rel="noreferrer"> 
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/a/ad/Ngspice_logo.jpg]" alt="ltspice" width="60" height="40"/> 
+<a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html/" target="_blank" rel="noreferrer"> 
+  <img src="https://preview.redd.it/x6gnx2y78vy51.png?auto=webp&s=c04eb53c3a4e2b47757538d36996f0fc3a4cdc4f" alt="ltspice" width="60" height="40"/> 
 </a>
 
 
