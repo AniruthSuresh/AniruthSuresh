@@ -55,14 +55,43 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,c,c++,mysql,flask" /><br>
-</div>
 
-<br/>
-<hr/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<a href="https://in.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367195-64099daa-0dbc-49bf-9bf1-232470ce2f06.png" alt="MATLAB" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.autodesk.in/products/fusion-360/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367673-3141acd7-2d79-4e54-b59a-2fecd257fba7.png" alt="fusion360" width="40" height="40"/> 
+  </a> 
+
+<a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="verilog" width="40" height="40"/> 
+  </a> 
+
+<a href="http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367290-9ba163c8-abb6-4200-962d-6e4fa74e0c78.png" alt="SPICE" width="40" height="40"/> 
+  </a>
+
+<a href="https://www.multisim.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367355-621f4613-c267-47bd-ba81-0aeac9e6d523.png" alt="multisim" style="border: solid white thin" width="auto" height="40"/> 
+  </a> 
+  
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/94699627/229367392-5568b926-b23c-4516-b0c7-d558eda34a2f.png" alt="arduino" width="40" height="40"/> 
+  </a> 
+
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/94699627/229367455-7fd3e2ee-9fba-42bf-93e1-9a396137fdb0.png" alt="raspberryPi" width="40" height="40"/> 
+  </a> 
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
