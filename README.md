@@ -40,6 +40,8 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 
 🛠️**Circuit Design and Simulation:** Proficient in using electronic design automation (EDA) tools such as **SPICE** for circuit simulation and **Magic Layout** design software for schematic capture and layout.
 
+<br/>
+
 
 
  </div>
