@@ -83,8 +83,8 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
     <img src="https://user-images.githubusercontent.com/94699627/229367392-5568b926-b23c-4516-b0c7-d558eda34a2f.png" alt="arduino" width="40" height="40"/> 
   </a> 
 
-<a href="[https://ngspice.sourceforge.io/]/" target="_blank" rel="noreferrer"> 
-  <img src="[https://user-images.githubusercontent.com/94699627/229367673-3141acd7-2d79-4e54-b59a-2fecd257fba7.png]" alt="ngspice" width="40" height="40"/> 
+<a href="https://ngspice.sourceforge.io//" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/94699627/229367673-3141acd7-2d79-4e54-b59a-2fecd257fba7.png" alt="ngspice" width="40" height="40"/> 
 </a>
 
 
