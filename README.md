@@ -17,7 +17,7 @@
 
  💬 **Natural Language Processing (NLP):** I'm also keen to delve into the intriguing field of Natural Language Processing (NLP). While not yet explored extensively, I'm eager to venture into projects where NLP techniques are employed . Stay tuned as I embark on this exciting journey into the world of NLP in the future.
 
-<a>
+</a>
 
 ***Machine Learning and Data Analysis***
 
