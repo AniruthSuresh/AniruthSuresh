@@ -103,9 +103,7 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 
 <br/><br/>
 
-<hr/>
 
-<br/>
 
 
 
