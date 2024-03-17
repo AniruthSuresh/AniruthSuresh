@@ -9,14 +9,14 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
+
+**Exploring Neural Networks**
+I'm currently working on **Convolutional Neural Networks** and delving deep into the realm of **Deep Learning** and have made a lot of models on the same . Feel free to check it out [here]([https://github.com/AniruthSuresh?tab=repositories])
+
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
