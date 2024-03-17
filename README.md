@@ -8,7 +8,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
+## <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndsNjhneHFidjZkZzdmaDAwdnJuNzFibGJoY2o2M29uY3I4bzA1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIFS20pNoCg1EEVodC/giphy.gif)" width="50"> About me
 
 
 **Exploring Neural Networks**
