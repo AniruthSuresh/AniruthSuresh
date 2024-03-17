@@ -8,13 +8,13 @@
 
 <br/>
 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me
+
 
 **Exploring Neural Networks**
 
-
-Apologies for the oversight. Let me correct that:
-
 🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my work [here](https://github.com/AniruthSuresh?tab=repositories)
+
 
 
  🌱 I’m currently learning **Docker, Supabase, AWS**
