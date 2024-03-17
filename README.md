@@ -73,9 +73,6 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
   <img src="https://user-images.githubusercontent.com/94699627/229367195-64099daa-0dbc-49bf-9bf1-232470ce2f06.png" alt="MATLAB" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.autodesk.in/products/fusion-360/" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/94699627/229367673-3141acd7-2d79-4e54-b59a-2fecd257fba7.png" alt="fusion360" width="40" height="40"/> 
-  </a> 
 
 <a href="https://www.verilog.com/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/94699627/229367114-8aaaf6f4-85c8-4c71-8fa1-9f916d1dd3da.png" alt="verilog" width="40" height="40"/> 
@@ -85,6 +82,8 @@ With a solid foundation in Electronics and Communications (ECE), I possess a dee
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/94699627/229367392-5568b926-b23c-4516-b0c7-d558eda34a2f.png" alt="arduino" width="40" height="40"/> 
   </a> 
+
+[![ngspice](https://user-images.githubusercontent.com/94699627/229367392-5568b926-b23c-4516-b0c7-d558eda34a2f.png)](https://www.ngspice.org/)
 
 
 
