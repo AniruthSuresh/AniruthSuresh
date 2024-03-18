@@ -42,13 +42,13 @@
 🔌 **Electronics and Communications (ECE) Skills:**
 With a solid foundation in Electronics and Communications (ECE), I possess a deep and comprehensive understanding of various concepts, systems, and models. My skills in ECE extend across multiple areas, including:
 
-🛰️**Analog and Digital Electronics:** Proficient in designing, analyzing, and troubleshooting analog and digital circuits. I have hands-on experience with operational amplifiers, digital logic gates, and integrated circuits.
+🛰️ **Analog and Digital Electronics:** Proficient in designing, analyzing, and troubleshooting analog and digital circuits. I have hands-on experience with operational amplifiers, digital logic gates, and integrated circuits.
 
-📶**Signal Processing:** Skilled in signal processing techniques for both analog and digital signals. I have applied filters, modulation/demodulation techniques, and Fourier analysis to manipulate and extract information from signals effectively.
+📶 **Signal Processing:** Skilled in signal processing techniques for both analog and digital signals. I have applied filters, modulation/demodulation techniques, and Fourier analysis to manipulate and extract information from signals effectively.
 
 ⚡️ **Communication Systems:** Knowledgeable about communication systems, including modulation schemes, channel coding, and multiplexing techniques.
 
-🛠️**Circuit Design and Simulation:** Proficient in using electronic design automation (EDA) tools such as **SPICE** for circuit simulation and **Magic Layout** design software for schematic capture and layout.
+🛠️ **Circuit Design and Simulation:** Proficient in using electronic design automation (EDA) tools such as **SPICE** for circuit simulation and **Magic Layout** design software for schematic capture and layout.
 
 <br/>
 
