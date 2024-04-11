@@ -25,8 +25,7 @@
 
 🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my works [here](https://github.com/AniruthSuresh?tab=repositories)
 
-💬 **Reinforcement Learning (RL)** :Highly motivated to start and explore the captivating domain of Reinforcement Learning (RL). Although my exploration of RL has been limited thus far, I'm enthusiastic about diving into projects that leverage RL techniques. Join me on this thrilling journey as I immerse myself in the dynamic realm of RL . 
-
+💬 **Reinforcement Learning (RL)** :Highly motivated to start and explore the captivating domain of Reinforcement Learning (RL). Although my exploration of RL has been limited thus far, I'm enthusiastic about diving into projects that leverage RL techniques.
 
 <br/>
 
