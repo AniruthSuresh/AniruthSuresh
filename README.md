@@ -20,12 +20,14 @@
 
 ## 👨‍💻 About me
 
+# Exploring Robotics and Vision
 
-***Exploring Neural Networks***
+🔧 **Real-Time Robot Arm Replacement:** I'm working on real-time robot arm replacement using state-of-the-art techniques like **InstaGan**, which leverages Generative Adversarial Networks (GANs) for simulating and replacing robot arms in a real-time setup. This includes tasks like pose estimation, calibration .
 
-🔭 I'm currently exploring **Neural Networks**, with a focus on **Convolutional Neural Networks**, and delving deep into the realm of **Deep Learning**. Feel free to check out my works [here](https://github.com/AniruthSuresh?tab=repositories)
 
-💬 *Visual Servoing* : Currently working on Visual servoing - used in robotics for controlling the motion of a robot based on visual feedback from one or more cameras (IBVS , PBVS , RTVS )
+💬 **Visual Servoing:** Worked on Visual Servoing, a technique used in robotics to control the motion of a robot based on visual feedback from one or more cameras. This includes methods such as **Image-Based Visual Servoing (IBVS)**, **Position-Based Visual Servoing (PBVS)**, and **Real-Time Visual Servoing (RTVS)**.
+
+
 
 <br/>
 
