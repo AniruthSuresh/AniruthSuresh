@@ -1,4 +1,4 @@
-# Aniruth
+# Aniruth Suresh
 
 > Writing code. Breaking things. Fixing them. Repeat.  
 
