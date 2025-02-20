@@ -5,6 +5,6 @@
 - 🏎️ Real-time vision  
 - 🤖 Robotics  
 - 🎭 Generative models
-- 
+  
 - 🏏 Cricket (`if (weekend) then play(); else watch();`)  
 - 📺 Netflix (`while (!sleepy) binge();`)  
